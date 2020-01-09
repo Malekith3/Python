@@ -6,7 +6,7 @@ My Python projects
 2 ) Sudoku game with gui with backtracking algorithm auto solve (space key )<br />
 
 Video link for demonstration <br />
-<ul>
-<li>Flappy Bird https://www.youtube.com/watch?v=Kilqm_Qg79o&feature=youtu.be</li>
-<li>Suduku   https://www.youtube.com/watch?v=OSP-XoNxL2c</li>
-</ul>
+<ol>
+<li>Flappy Bird https://www.youtube.com/watch?v=OSP-XoNxL2c </li>
+<li>Suduku   https://www.youtube.com/watch?v=OSP-XoNxL2c </li>
+</ol>
