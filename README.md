@@ -7,6 +7,6 @@ My Python projects
 
 Video link for demonstration <br />
 <ol>
-<li>Flappy Bird https://www.youtube.com/watch?v=OSP-XoNxL2c </li>
+<li>Flappy Bird https://www.youtube.com/watch?v=tAxEpQ0pnnA </li>
 <li>Sudoku   https://www.youtube.com/watch?v=OSP-XoNxL2c </li>
 </ol>
